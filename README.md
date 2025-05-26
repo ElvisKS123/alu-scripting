@@ -1,1 +1,1 @@
-This repo contains scripting projects
+This repo is containing scripting projects
