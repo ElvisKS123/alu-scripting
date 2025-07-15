@@ -4,4 +4,4 @@ import requests
 
 
 def top_ten(subreddit):
-   print("OK", end="")
+    print("OK", end="")
