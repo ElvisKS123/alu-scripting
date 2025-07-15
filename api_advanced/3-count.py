@@ -28,4 +28,3 @@ def count_words(subreddit, word_list):
     for key, value in sorted(word_count.items(), key=lambda x: (-x[1], x[0])):
         print("{}: {}".format(key.lower(), value))
     return count_words(subreddit, word_list)
-    
